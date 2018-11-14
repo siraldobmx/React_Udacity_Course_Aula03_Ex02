@@ -84,7 +84,7 @@ const movies = {
   },
   4: {
     id: 4,
-    name: "Forrest Gump"
+    name: "Forrest Gump 1"
   },
   5: {
     id: 5,

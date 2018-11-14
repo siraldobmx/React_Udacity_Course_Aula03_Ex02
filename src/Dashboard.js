@@ -19,9 +19,8 @@ class Dashboard extends Component {
       />
     ));
 
-    /*
-    Return JSX
-    */
+    //console.log(movieCards);
+    /*     Return JSX    */
     return <ul>{movieCards}</ul>;
   }
 }
